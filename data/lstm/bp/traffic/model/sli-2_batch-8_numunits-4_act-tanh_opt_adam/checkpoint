@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/thangnguyen/hust_project/cloud_autoscaling/data/lstm/bp/traffic/model/sli-2_batch-8_numunits-4_act-tanh_opt_adam/model"
+all_model_checkpoint_paths: "/Users/thangnguyen/hust_project/cloud_autoscaling/data/lstm/bp/traffic/model/sli-2_batch-8_numunits-4_act-tanh_opt_adam/model"
