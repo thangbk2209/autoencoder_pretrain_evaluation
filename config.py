@@ -9,7 +9,7 @@ class Config:
     PLT_ENV = 'Agg'  # TkAgg
     GOOGLE_TRACE_DATA_CONFIG = {
         'train_data_type': 'cpu_mem',  # cpu_mem, uni_mem, uni_cpu
-        'predict_data': 'cpu',
+        'predict_data': 'mem',
         'time_interval': 5,
         'file_data_name': '/input_data/google_trace/data_{}Min.csv',
         'data_path': CORE_DATA_DIR + '{}',
