@@ -14,3 +14,11 @@ Model, MAE, RMSE, r2
 Model, MAE, RMSE, r2
 Model, MAE, RMSE, r2
 Model, MAE, RMSE, r2
+Model, MAE, RMSE, r2
+Model, MAE, RMSE, r2
+Model, MAE, RMSE, r2
+sli-12_batch-64_numunits-4_act-tanh_opt_adam_time_1, 0.3778983650177375, 0.5293138031086752, -8.686778420341223
+sli-12_batch-64_numunits-4_act-tanh_opt_adam_time_2, 0.361594300393604, 0.511363479670926, -5.403777745700147
+sli-12_batch-64_numunits-4_act-tanh_opt_adam_time_3, 0.46476949344617113, 0.5837481607939088, -15.613648516376166
+sli-12_batch-64_numunits-4_act-tanh_opt_adam_time_4, 0.6129862305397886, 0.7022476542590421, -51.75575811743926
+Model, MAE, RMSE, r2

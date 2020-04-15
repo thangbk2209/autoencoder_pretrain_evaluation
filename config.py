@@ -41,7 +41,7 @@ class Config:
     METHOD_APPROACH = 'bp'  # pso, whale, bp, bp_pso, pso_bp
 
     LEARNING_RATE = 3e-4
-    EPOCHS = 1000
+    EPOCHS = 10
     EARLY_STOPPING = True
     PATIENCE = 20
     TRAIN_SIZE = 0.6
