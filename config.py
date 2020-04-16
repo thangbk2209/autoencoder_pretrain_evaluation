@@ -37,11 +37,11 @@ class Config:
         }
     }
     VISUALIZATION = False
-    MODEL_EXPERIMENT = 'lstm'  # lstm, ann, bnn, pretrain_autoencoder
+    MODEL_EXPERIMENT = 'pretrain_autoencoder'  # lstm, ann, bnn, pretrain_autoencoder
     METHOD_APPROACH = 'bp'  # pso, whale, bp, bp_pso, pso_bp
 
     LEARNING_RATE = 3e-4
-    EPOCHS = 10
+    EPOCHS = 1000
     EARLY_STOPPING = True
     PATIENCE = 20
     TRAIN_SIZE = 0.6
@@ -85,7 +85,7 @@ class Config:
         'time_list': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
         'sliding_encoder': [12],
         'batch_size': [64, 128],
-        'num_units_lstm': [[4], [4, 2], [8, 4, 2], [16, 8, 4, 2]],
+        'num_units_lstm': [[8], [16], [32]],
         'num_units_inference': [[4]],
         'dropout_rate': [0.9],
         'variation_dropout': False,

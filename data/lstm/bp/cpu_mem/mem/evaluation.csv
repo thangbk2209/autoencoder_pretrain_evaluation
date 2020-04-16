@@ -4,3 +4,4 @@ Model, MAE, RMSE, r2
 sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_1, 0.05226772670861584, 0.0652000470485589, -7.614830402584587
 sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_2, 0.05551905003020769, 0.07028503524048134, -67.97545114623719
 Model, MAE, RMSE, r2
+Model, MAE, RMSE, r2

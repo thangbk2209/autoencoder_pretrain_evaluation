@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/pretrain_autoencoder/bp/cpu_mem/mem/model/sli_encoder-12_batch-128_name_lstm-8_4_2activation-tanh_optimizer_adam_time_18/autoencoder/model/model"
+all_model_checkpoint_paths: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/pretrain_autoencoder/bp/cpu_mem/mem/model/sli_encoder-12_batch-128_name_lstm-8_4_2activation-tanh_optimizer_adam_time_18/autoencoder/model/model"
