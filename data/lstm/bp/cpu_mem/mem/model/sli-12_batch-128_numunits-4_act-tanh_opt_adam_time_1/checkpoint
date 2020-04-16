@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/thangnguyen/hust_project/master_course/machine_learning_with_big_data/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_1/model"
-all_model_checkpoint_paths: "/Users/thangnguyen/hust_project/master_course/machine_learning_with_big_data/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_1/model"
+model_checkpoint_path: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_1/model"
+all_model_checkpoint_paths: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-128_numunits-4_act-tanh_opt_adam_time_1/model"
