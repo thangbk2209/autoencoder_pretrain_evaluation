@@ -37,7 +37,7 @@ class Config:
         }
     }
     VISUALIZATION = False
-    MODEL_EXPERIMENT = 'pretrain_autoencoder'  # lstm, ann, bnn, pretrain_autoencoder
+    MODEL_EXPERIMENT = 'lstm'  # lstm, ann, bnn, pretrain_autoencoder
     METHOD_APPROACH = 'bp'  # pso, whale, bp, bp_pso, pso_bp
 
     LEARNING_RATE = 3e-4

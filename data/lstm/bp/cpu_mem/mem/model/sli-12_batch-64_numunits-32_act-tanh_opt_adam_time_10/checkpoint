@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-64_numunits-32_act-tanh_opt_adam_time_10/model"
+all_model_checkpoint_paths: "/root/thangbk2209/autoencoder_pretrain_evaluation/data/lstm/bp/cpu_mem/mem/model/sli-12_batch-64_numunits-32_act-tanh_opt_adam_time_10/model"
